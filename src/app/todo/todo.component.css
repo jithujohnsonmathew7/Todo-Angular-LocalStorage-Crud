@@ -1,0 +1,38 @@
+.form-box {
+    width: 600px;
+    height: 700px;
+    position: relative;
+    margin: 6% auto;
+    background: rgb(226, 225, 225);
+    padding: 5%;
+    border-radius: 30px;
+    overflow: hidden;
+    border-color: #999;
+    box-shadow: #262626;
+}
+
+.title {
+    text-align: center;
+}
+
+.form-control {
+    position: center;
+    width: 500px;
+    margin-right: 10px;
+}
+
+.button-box {
+    width: 220px;
+    margin-top: 35px;
+    position: relative;
+    box-shadow: 0 0 20px 9px #f3f3731f;
+    display: inline-flex;
+}
+
+.btn-primary {
+    margin-right: 10px;
+}
+
+.table {
+    margin-top: 20px;
+}
